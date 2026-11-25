@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Question-F4C0D1?style=for-the-badge" alt="Question">
 </p>
 
-I spent years explaining products to customers. Now I build AI – and still care most about whether people understand it and can trust it.
+I spent years explaining products to customers. Now I build AI and still care most about whether people understand it and can trust it.
 
 ---
 
