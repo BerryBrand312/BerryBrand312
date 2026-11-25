@@ -34,7 +34,7 @@ I spent years explaining products to customers. Now I build AI and still care mo
 
 **Methods:** CNNs and transfer learning · Q-learning and DQN · ML evaluation · knowledge graphs and ontologies · data modelling
 
-**Tools:** `Python` `PyTorch` `scikit-learn` `pytest` `SQL` `Git` `Google Colab`
+**Tools:** `Python` `PyTorch` `PyCharm` `Jupyter book` `scikit-learn` `pytest` `SQL` `Git` `Google Colab`
 
 ## Coursework @ FHNW
 
