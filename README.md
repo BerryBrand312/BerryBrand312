@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Hi, I'm Beri – Making AI understandable, useful and responsible" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Build-993556?style=for-the-badge" alt="Build">
-  <img src="https://img.shields.io/badge/Explain-D4537E?style=for-the-badge" alt="Explain">
-  <img src="https://img.shields.io/badge/Question-F4C0D1?style=for-the-badge" alt="Question">
+  <a href="https://github.com/BerryBrand312"><img src="banner.svg" alt="Hi, I'm Beri – Making AI understandable, useful and responsible. Build · Explain · Question" width="100%"></a>
 </p>
 
 I spent years explaining products to customers. Now I build AI and still care most about whether people understand it and can trust it.
@@ -14,8 +8,7 @@ I spent years explaining products to customers. Now I build AI and still care mo
 
 ## Currently building
 
-![Reinforcement learning](https://img.shields.io/badge/Reinforcement_learning-FBEAF0?style=flat-square)
-![In progress](https://img.shields.io/badge/In_progress-F1EFE8?style=flat-square)
+<a href="https://github.com/BerryBrand312/er-triage-dqn"><img src="https://img.shields.io/badge/Reinforcement_learning-FBEAF0?style=flat-square" alt="Reinforcement learning"> <img src="https://img.shields.io/badge/In_progress-F1EFE8?style=flat-square" alt="In progress"></a>
 
 ### [Emergency room triage agent](https://github.com/BerryBrand312/er-triage-dqn)
 `er-triage-dqn` · Team project · FHNW
@@ -26,8 +19,7 @@ I spent years explaining products to customers. Now I build AI and still care mo
 
 <br>
 
-![Deep learning · Computer vision](https://img.shields.io/badge/Deep_learning_·_Computer_vision-F4C0D1?style=flat-square)
-![In progress](https://img.shields.io/badge/In_progress-F1EFE8?style=flat-square)
+<a href="https://github.com/BerryBrand312/bone-age-prediction"><img src="https://img.shields.io/badge/Deep_learning_·_Computer_vision-F4C0D1?style=flat-square" alt="Deep learning · Computer vision"> <img src="https://img.shields.io/badge/In_progress-F1EFE8?style=flat-square" alt="In progress"></a>
 
 ### [Bone age from hand X-rays](https://github.com/BerryBrand312/bone-age-prediction)
 `bone-age-prediction` · Team project · FHNW
@@ -38,16 +30,11 @@ I spent years explaining products to customers. Now I build AI and still care mo
 
 ---
 
-## Technical toolbox
+## What I work with
 
-| Area | What I work with |
-| --- | --- |
-| **Machine learning** | Classification, regression, clustering, evaluation |
-| **Deep learning** | CNNs, transfer learning, PyTorch |
-| **Reinforcement learning** | Monte Carlo, Q-learning, DQN, simulation |
-| **Knowledge-based AI** | Knowledge graphs, ontologies, rule systems |
-| **Data** | SQL, ER modelling, data preparation |
-| **Engineering** | Python OOP, pytest, Git, reproducible experiments |
+**Methods:** CNNs and transfer learning · Q-learning and DQN · ML evaluation · knowledge graphs and ontologies · data modelling
+
+**Tools:** `Python` `PyTorch` `scikit-learn` `pytest` `SQL` `Git` `Google Colab`
 
 ## Coursework @ FHNW
 
@@ -69,17 +56,11 @@ Deep Learning · Reinforcement Learning · Business Process Management and Autom
 
 </details>
 
-## Next up
-
-![Value sensitive design](https://img.shields.io/badge/Value_sensitive_design-FBEAF0?style=flat-square)
-![Data governance](https://img.shields.io/badge/Data_governance-FBEAF0?style=flat-square)
-![AI risks](https://img.shields.io/badge/AI_risks-FBEAF0?style=flat-square)
-![Computer vision](https://img.shields.io/badge/Computer_vision-F1EFE8?style=flat-square)
-![Dialogue systems](https://img.shields.io/badge/Dialogue_systems-F1EFE8?style=flat-square)
+**Next up:** Value sensitive design · Data governance · AI risks · Computer vision · Dialogue systems
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/berivanbrand"><img src="https://img.shields.io/badge/LinkedIn-72243E?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:berivan.brand@gmail.com"><img src="https://img.shields.io/badge/E--Mail-72243E?style=for-the-badge" alt="E-Mail"></a>
+  <a href="https://www.linkedin.com/in/LINKEDIN-NAME"><img src="https://img.shields.io/badge/LinkedIn-72243E?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/E--Mail-72243E?style=for-the-badge" alt="E-Mail"></a>
 </p>
