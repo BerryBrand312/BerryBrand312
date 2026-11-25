@@ -17,7 +17,7 @@ I spent years explaining products to customers. Now I build AI – and still car
 ![Reinforcement learning](https://img.shields.io/badge/Reinforcement_learning-FBEAF0?style=flat-square)
 ![In progress](https://img.shields.io/badge/In_progress-F1EFE8?style=flat-square)
 
-### [Emergency room triage agent](https://github.com/USERNAME/er-triage-dqn)
+### [Emergency room triage agent](https://github.com/BerryBrand312/er-triage-dqn)
 `er-triage-dqn` · Team project · FHNW
 
 **In one sentence:** teaching an AI to decide who gets treated next in a simulated ER – without ever skipping the most urgent patient.
@@ -29,7 +29,7 @@ I spent years explaining products to customers. Now I build AI – and still car
 ![Deep learning · Computer vision](https://img.shields.io/badge/Deep_learning_·_Computer_vision-F4C0D1?style=flat-square)
 ![In progress](https://img.shields.io/badge/In_progress-F1EFE8?style=flat-square)
 
-### [Bone age from hand X-rays](https://github.com/USERNAME/bone-age-prediction)
+### [Bone age from hand X-rays](https://github.com/BerryBrand312/bone-age-prediction)
 `bone-age-prediction` · Team project · FHNW
 
 **In one sentence:** estimating a child's bone age from a hand X-ray – and showing which parts of the image the model looks at.
@@ -80,6 +80,6 @@ Deep Learning · Reinforcement Learning · Business Process Management and Autom
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN-NAME"><img src="https://img.shields.io/badge/LinkedIn-72243E?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/E--Mail-72243E?style=for-the-badge" alt="E-Mail"></a>
+  <a href="https://www.linkedin.com/in/berivanbrand"><img src="https://img.shields.io/badge/LinkedIn-72243E?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:berivan.brand@gmail.com"><img src="https://img.shields.io/badge/E--Mail-72243E?style=for-the-badge" alt="E-Mail"></a>
 </p>
