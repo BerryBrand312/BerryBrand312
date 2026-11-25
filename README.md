@@ -61,6 +61,6 @@ Deep Learning · Reinforcement Learning · Business Process Management and Autom
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN-NAME"><img src="https://img.shields.io/badge/LinkedIn-72243E?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/E--Mail-72243E?style=for-the-badge" alt="E-Mail"></a>
+  <a href="https://www.linkedin.com/in/berivanbrand"><img src="https://img.shields.io/badge/LinkedIn-72243E?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:berivan.brand@gmail.com"><img src="https://img.shields.io/badge/E--Mail-72243E?style=for-the-badge" alt="E-Mail"></a>
 </p>
